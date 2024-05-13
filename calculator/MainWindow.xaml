@@ -1,0 +1,69 @@
+﻿<Window x:Name="window" x:Class="calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculator"
+        mc:Ignorable="d"
+        Title="El supremo calculator" Height="574" Width="552" RenderTransformOrigin="0,0" ResizeMode="NoResize" AllowsTransparency="True" Background="{x:Null}" Icon="/calculatrice.png" Foreground="#00000000" WindowStyle="None"
+        DataContext="{DynamicResource MainWindowViewModel}">
+
+    <Border CornerRadius="25" BorderBrush="Black" BorderThickness="2" Padding="6" Background="#FF1E1F2E">
+        <Grid>
+            <!-- full left -->
+            <Button x:Name="divise" Grid.Column="3" Content="/" Grid.Row="6" Command="{Binding ButtonCommand}" CommandParameter="/" FontSize="48" Background="#FF00C020" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="multiply" Grid.Column="3" Content="*" Grid.Row="5"  Command="{Binding ButtonCommand}" CommandParameter="*" FontSize="48" Background="#FF00C020" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="soustract" Grid.Column="3" Content="-" Grid.Row="4" Command="{Binding ButtonCommand}" CommandParameter="-" FontSize="48" Background="#FF00C020" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="addition" Grid.Column="3" Content="+" Grid.Row="3" Command="{Binding ButtonCommand}" CommandParameter="+" FontSize="48" Background="#FF00C020" BorderBrush="Black" BorderThickness="10"/>
+            <!-- middle left -->
+            <Button x:Name="equals" Grid.Column="2" Content="=" Grid.Row="6"  Command="{Binding ButtonCommand}" CommandParameter="=" FontSize="48" Background="#C0BFB9" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn9" Grid.Column="2" Content="9" Grid.Row="5" Command="{Binding ButtonCommand}" CommandParameter="9" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn6" Grid.Column="2" Content="6" Grid.Row="4" Command="{Binding ButtonCommand}" CommandParameter="6" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn3" Grid.Column="2" Content="3" Grid.Row="3" Command="{Binding ButtonCommand}" CommandParameter="3" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+
+            <!-- middle right -->
+            <Button x:Name="clear" Grid.Column="1" Content="CLR" Grid.Row="6"  Command="{Binding ButtonCommand}" CommandParameter="CLR" FontSize="48" Background="Red" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn8" Grid.Column="1" Content="8" Grid.Row="5" Command="{Binding ButtonCommand}" CommandParameter="8" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn5" Grid.Column="1" Content="5" Grid.Row="4" Command="{Binding ButtonCommand}" CommandParameter="5" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn2" Grid.Column="1" Content="2" Grid.Row="3" Command="{Binding ButtonCommand}" CommandParameter="2" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+
+            <!-- full right -->
+            <Button x:Name="btn0" Grid.Column="0" Content="0" Grid.Row="6" Command="{Binding ButtonCommand}" CommandParameter="0" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn7" Grid.Column="0" Content="7" Grid.Row="5" Command="{Binding ButtonCommand}" CommandParameter="7" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn4" Grid.Column="0" Content="4" Grid.Row="4" Command="{Binding ButtonCommand}" CommandParameter="4" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+            <Button x:Name="btn1" Grid.Column="0" Content="1" Grid.Row="3" Command="{Binding ButtonCommand}" CommandParameter="1" FontSize="48" Background="#C0A000" BorderBrush="Black" BorderThickness="10"/>
+            <TextBlock x:Name="txt_result" TextWrapping="Wrap" Width="536" Height="155" Grid.ColumnSpan="4" TextAlignment="Right" FontSize="108" Text="{Binding DisplayNumber}" FontFamily="Arial Black" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.RowSpan="2" Grid.Row="1" Background="{x:Null}" Foreground="White"/>
+            <TextBlock x:Name="title" HorizontalAlignment="Left" Margin="48,7,0,0" TextWrapping="Wrap" Text="El Supremo Calculator" VerticalAlignment="Top" Height="30" Width="196" Foreground="White" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+
+            <StackPanel Grid.Row="0" Grid.Column="3" HorizontalAlignment="Right" Orientation="Horizontal">
+                <Button Content="-" Width="25" 
+                        Command="{Binding MinimizeCommand}" 
+                        FontSize="16"
+                        Margin="3"
+                        Background="#C06E00" BorderBrush="Black" BorderThickness="1"/>
+                <Button Content="X" Width="25" 
+                        Command="{Binding CloseCommand}" 
+                        FontSize="16"
+                        Margin="3"
+                        Background="Red" BorderBrush="Black" BorderThickness="1"/>
+            </StackPanel>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="170"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/> <!-- New row for the close and minimize buttons -->
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+        </Grid>
+    </Border>
+</Window>

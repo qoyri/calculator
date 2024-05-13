@@ -1,0 +1,62 @@
+C:\Users\basti\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.exe
+C:\Users\basti\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+C:\Users\basti\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+C:\Users\basti\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.dll
+C:\Users\basti\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.pdb
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator_MarkupCompile.cache
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator_MarkupCompile.lref
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.g.resources
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.cs
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.dll
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.pdb
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+C:\Users\basti\source\repos\calculator\calculator\obj\Debug\net8.0-windows\ref\calculator.dll
+D:\code\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.exe
+D:\code\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+D:\code\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+D:\code\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.dll
+D:\code\source\repos\calculator\calculator\bin\Debug\net8.0-windows\calculator.pdb
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\App.g.cs
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator_MarkupCompile.cache
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator_MarkupCompile.lref
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\MainWindow.baml
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.g.resources
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.cs
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.csproj.CoreCompileInputs.cache
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.dll
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.pdb
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+D:\code\source\repos\calculator\calculator\obj\Debug\net8.0-windows\ref\calculator.dll
+D:\code\source\repos\calculator nvvn\calculator\bin\Debug\net8.0-windows\calculator.exe
+D:\code\source\repos\calculator nvvn\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+D:\code\source\repos\calculator nvvn\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+D:\code\source\repos\calculator nvvn\calculator\bin\Debug\net8.0-windows\calculator.dll
+D:\code\source\repos\calculator nvvn\calculator\bin\Debug\net8.0-windows\calculator.pdb
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\App.g.cs
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator_MarkupCompile.cache
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator_MarkupCompile.lref
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\App.baml
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\MainWindow.baml
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator.g.resources
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.cs
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator.csproj.CoreCompileInputs.cache
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator.dll
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator.pdb
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+D:\code\source\repos\calculator nvvn\calculator\obj\Debug\net8.0-windows\ref\calculator.dll

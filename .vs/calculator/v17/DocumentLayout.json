@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\source\\repos\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E0BCE5-B731-43BF-952F-114F3628062B}|calculator\\calculator.csproj|d:\\code\\source\\repos\\calculator\\calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2E0BCE5-B731-43BF-952F-114F3628062B}|calculator\\calculator.csproj|solutionrelative:calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E0BCE5-B731-43BF-952F-114F3628062B}|calculator\\calculator.csproj|D:\\code\\source\\repos\\calculator\\calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E0BCE5-B731-43BF-952F-114F3628062B}|calculator\\calculator.csproj|solutionrelative:calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E0BCE5-B731-43BF-952F-114F3628062B}|calculator\\calculator.csproj|D:\\code\\source\\repos\\calculator\\calculator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E0BCE5-B731-43BF-952F-114F3628062B}|calculator\\calculator.csproj|solutionrelative:calculator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\code\\source\\repos\\calculator\\calculator\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "calculator\\AssemblyInfo.cs",
+              "ToolTip": "D:\\code\\source\\repos\\calculator\\calculator\\AssemblyInfo.cs",
+              "RelativeToolTip": "calculator\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:49:39.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\code\\source\\repos\\calculator\\calculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "calculator\\MainWindow.xaml",
+              "ToolTip": "D:\\code\\source\\repos\\calculator\\calculator\\MainWindow.xaml",
+              "RelativeToolTip": "calculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T10:45:45.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\code\\source\\repos\\calculator\\calculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "calculator\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\code\\source\\repos\\calculator\\calculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "calculator\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:45:45.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
